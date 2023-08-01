@@ -5,7 +5,9 @@ function App() {
 
   return (
     <>
-      <Home></Home>
+      <Home>
+        hi bro
+      </Home>
     </>
   )
 }
